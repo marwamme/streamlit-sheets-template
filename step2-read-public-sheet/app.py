@@ -17,7 +17,7 @@ import pandas as pd
 import streamlit as st
 
 # Replace this placeholder with your own published-to-web CSV URL.
-SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vREPLACE_ME/pub?output=csv"
+SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/1n0elq13sj-OVoTSgQUKYaNau_7QPGZp6jrxdoE6WTi0/pub?output=csv"
 
 
 @st.cache_data(ttl=60)
